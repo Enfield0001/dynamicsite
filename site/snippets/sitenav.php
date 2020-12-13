@@ -20,17 +20,18 @@ $logotype_nooutlinesvg = asset('assets/images/logotype_nooutline.svg')->url();
 	<nav class="menumodifier">
 		<ul>
 			<?php foreach($site->children()->listed() as $firstlvlitem): ?>
-				<?php if($firstlvlitem->css_ref() === "works"): ?>
+				<?php if($firstlvlitem->cssref() == "works"): ?>
 					<!-- Plus 2 to include the topmost "Works" button first. Plus 1 to refer to the rest of the buttons. -->
 					<?php
 						$workspos = $firstlvlitem->num();
-						$workssum = $firstlvlitem->children()->listed();
-						$worksend = $firstlvlitem->num() + $workssum;
+						$worksarray = $firstlvlitem->nums();
+						$workssum = count($firstlvlitem->children());
+						$worksend = $workspos + $workssum;
 					?>
-					<li class="<?= $firstlvlitem->css_ref() ?>" style="grid-row: <?= $workspos ?> / <?= $worksend + 2 ?>;">
+					<li class="<?= $firstlvlitem->cssref() ?>" style="grid-row: <?= $workspos ?> / <?= $worksend + 2 ?>;">
 						<a href="<?= $firstlvlitem->url() ?>"><?= $firstlvlitem->title() ?></a><ul style="grid-row: 2 / <?= $workssum + 1 ?>;">
 							<?php foreach($firstlvlitem->children() as $seclvlitem): ?>
-								<li class="<?= $seclvlitem->css_ref() ?>">
+								<li class="<?= $seclvlitem->cssref() ?>">
 									<a href="<?= $seclvlitem->url() ?>"><span>Done in</span> <br>
 										<?= $seclvlitem->title() ?></a>
 								</li>
@@ -38,7 +39,7 @@ $logotype_nooutlinesvg = asset('assets/images/logotype_nooutline.svg')->url();
 						</ul>
 					</li>
 				<?php else: ?>
-					<li class="<?= $firstlvlitem->css_ref() ?>"><a href="<?= $firstlvlitem->url() ?>"><?= $firstlvlitem->title() ?></a></li>
+					<li class="<?= $firstlvlitem->cssref() ?>"><a href="<?= $firstlvlitem->url() ?>"><?= $firstlvlitem->title() ?></a></li>
 				<?php endif ?>
 			<?php endforeach ?>
 		</ul>

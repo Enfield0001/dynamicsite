@@ -10,7 +10,7 @@ Private: false
 
 ----
 
-Css-ref: academics
+Cssref: academics
 
 ----
 

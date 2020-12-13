@@ -1,5 +1,5 @@
 <?php 
-$mainjs = asset('scripts/main.js')->url();
+$mainjs = asset('assets/scripts/main.js')->url();
 ?>
 
 <?= snippet('sitehead') ?>
