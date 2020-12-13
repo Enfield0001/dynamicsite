@@ -1,8 +1,40 @@
-title: Default Page
-preset: page
-fields:
-  text:
-    label: Text
-    type: textarea
-    size: large
-
+title: Default
+# preset: page
+columns:
+  - width: 2/3
+    type: fields
+    fields:
+      description:
+        label: Metadata description
+        type: textarea
+        size: small
+        buttons: false
+  - width: 1/3
+    type: fields
+    fields: 
+      private:
+        label: Unlisted in websearches?
+        type: toggle
+        text: 
+          - "No"
+          - "Yes"
+      css_ref:
+        label: CSS reference
+        type: text
+        help: Follow basic CSS class and ID guidelines. No caps, start with letter, no spaces.
+  - width: 2/3
+    headline: Copy
+    type: sections
+    fields:
+      copy:
+        type: textarea
+        size: medium
+  - width: 1/3
+    type: sections
+    sections:
+      gallery:
+        headline: Body image
+        type: files
+        layout: cards
+        template: single-image
+        max: 1
