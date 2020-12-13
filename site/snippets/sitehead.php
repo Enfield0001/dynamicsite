@@ -20,12 +20,14 @@
 	<meta name="Author" content=<?= html($site->author()) ?>/>
 
 	<?php
-		$maincss = $site->asset('css/main.php');
-		$mainjs = $site->asset('scripts/main.js');
+		$maincss = $site->asset('css/main.php')->url();
+		$mainjs = $site->asset('scripts/main.js')->url();
 
-		$expandsvg = $site->asset('images/expand.svg');
-		$logo_whitesvg = $site->asset('images/logo_white.svg');
-		$logotype_nooutlinesvg = $site->asset('images/logotype_nooutline.svg');
+		$expandsvg = $site->asset('images/expand.svg')->url();
+		$logo_whitesvg = $site->asset('images/logo_white.svg')->url();
+		$logotype_nooutlinesvg = $site->asset('images/logotype_nooutline.svg')->url();
+
+		$standardsplash = $site->asset('images/splash1200px.jpg')->url();
 	?>
 
 	<link rel="preload" href="<?= $maincss ?>" as="style">
@@ -35,8 +37,8 @@
 	<link rel="preload" href="<?= $logo_whitesvg ?>" as="image">
 	<link rel="preload" href="<?= $logotype_nooutlinesvg ?>" as="image">
 
-	<?php if($paage->isHomePage()): ?>
-	<link rel="preload" href="../_images/splash1200px.jpg" as="image">
+	<?php if($page->isHomePage()): ?>
+	<link rel="preload" href="<?= $standardsplash ?>" as="image">
 	<?php endif ?>
 
 	<link rel="stylesheet" type="text/css" href="<?= $maincss ?>">

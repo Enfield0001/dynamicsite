@@ -26,6 +26,9 @@ columns:
     headline: Copy
     type: sections
     fields:
+      copyhead:
+        label: Copy headline
+        type: text
       copy:
         type: textarea
         size: medium
