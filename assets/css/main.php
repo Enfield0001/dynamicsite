@@ -1,3 +1,5 @@
+<?php header("Content-type: text/css");?>
+
 /********************************
 CATCH-ALLS, ROOT APPLIED, INITIAL
 ********************************/
