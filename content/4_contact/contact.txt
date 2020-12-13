@@ -14,8 +14,38 @@ Cssref: contact
 
 ----
 
-Copyhead: 
+Copyhead: Let's touch base!
 
 ----
 
-Bodycopy: 
+Bodycopy:
+
+Wanna talk business? Just wanna pop in and say hi? This is the place to start.
+
+Unless you actually have the means or you're specifically told you to do otherwise, please start the conversation either through the provided contact form or one of the listed emails. Additional contact information, formal resumes, and other material may be provided after request and discussion.
+
+----
+
+Contactcopy:
+
+### Contact form
+
+If you prefer to be brief and can keep things purely to text, consider using the contact form below.
+
+----
+
+Emailcopy:
+
+### Email
+
+Alternatively, if you'd like to give your statement some extra bulk, you can send an email to one of two addresses.
+<br />
+
+(email: business@pauledmiston.com text: business@pauledmiston.com)
+Please use this email for design consultations, contract and career opportunities, and other similar endeavors.
+
+Commissions in general are currently closed, but personal commissions being looked into. Stay tuned!
+<br />
+
+(email: personal@pauledmiston.com text: personal@pauledmiston.com)
+For all other purposes, please contact use the personal catch-all email.

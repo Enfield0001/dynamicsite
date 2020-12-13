@@ -30,6 +30,7 @@ columns:
         label: Copy headline
         type: text
       bodycopy:
+        label: Body copy
         type: textarea
         size: medium
   - width: 1/3
@@ -41,3 +42,14 @@ columns:
         layout: cards
         template: doodle
         max: 1
+  - width: 1/1
+    type: sections
+    fields:
+      contactcopy:
+        label: Contact form copy
+        type: textarea
+        size: medium
+      emailcopy:
+        label: Email copy
+        type: textarea
+        size: medium

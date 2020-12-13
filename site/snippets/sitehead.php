@@ -43,7 +43,7 @@
 	<link rel="preload" href="<?= $standardsplash ?>" as="image">
 	<?php endif ?>
 
-	<link rel="stylesheet" type="text/css" href="<?= $maincss ?>">
+	<link rel="stylesheet" type="text/css" href="<?= $maincss ?>" media="screen">
 
 	<?php if($page->private()->toBool($default = false)): ?>
 	<meta name="robots" content="noindex">

@@ -9,7 +9,16 @@ $mainjs = asset('assets/scripts/main.js')->url();
 	<div class="maininterior">
 		<h2><?= html($page->copyhead()) ?></h2>
 		<article>
-			<p><?= html($page->bodycopy()) ?></p>
+			<img
+				src="<?= $page->images()->first()->url() ?>"
+				class="doodle"
+				style="
+					shape-outside: url('<?= $page->images()->first()->url() ?>');
+					<?php if($page->images()->first()->shape_margin()->isNotEmpty()): ?>
+						shape-margin: <?= $page->images()->first()->shape_margin() ?>rem;
+					<? endif ?>"
+				alt="">
+			<?= $page->bodycopy()->kirbytext() ?>
 		</article>
 	</div>
 </main>

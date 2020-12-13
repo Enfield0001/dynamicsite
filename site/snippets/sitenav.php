@@ -44,7 +44,7 @@ $logotype_nooutlinesvg = asset('assets/images/logotype_nooutline.svg')->url();
 			<?php endforeach ?>
 		</ul>
 		<div>
-			<p><?= $site->legal()->html() ?></p>
+			<p markdown="1"><?= $site->legal()->kirbytext() ?></p>
 		</div>
 	</nav>
 </div>

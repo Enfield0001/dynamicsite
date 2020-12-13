@@ -1,0 +1,11 @@
+title: Doodle
+
+fields:
+  alt:
+    width: 3/4
+    type: text
+  Shape margin:
+    type: number
+    step: .01
+    after: rem
+    width: 1/4
