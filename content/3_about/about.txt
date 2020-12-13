@@ -11,3 +11,17 @@ Private: false
 ----
 
 Css-ref: about
+
+----
+
+Copyhead: What's shakin?
+
+----
+
+Bodycopy:
+
+I'm Paul Edmiston! I hope you got that by now with my name practically everywhere around here!
+
+For as long as I can remember my passions have been focused on art and design, but it wasn't until high school that I started to zero in on the idea of doing it as a career. Since then I have been reaching for opportunities around me to work in the craft and make a look that stands out as thorough and sharp.
+
+I have focused on my studies as of late. I'm a student at Diablo Valley College and will be transferring to SF State in 2021. I'm focused in Graphic Design and front end web development, but as a major in Visual Communications, I'm a flexible designer capable to work with whatever comes my way.

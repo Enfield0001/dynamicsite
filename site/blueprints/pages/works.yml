@@ -1,6 +1,11 @@
 title: Default
 # preset: page
 columns:
+  - width: 1/1
+    sections:
+      pages:
+        preset: pages
+        unlisted: true
   - width: 2/3
     type: fields
     fields:

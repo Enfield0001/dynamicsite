@@ -1,5 +1,3 @@
-<?php header("Content-type: text/css");?>
-
 /********************************
 CATCH-ALLS, ROOT APPLIED, INITIAL
 ********************************/
@@ -19,7 +17,9 @@ CATCH-ALLS, ROOT APPLIED, INITIAL
 	--linkvisit: #643c97;
 	--quick_easeout: cubic-bezier(.12,.75,.50,1);
 }
-* {box-sizing: border-box;}
+* {
+	box-sizing: border-box;
+}
 html {
 	height: 100%;
 }
@@ -331,8 +331,8 @@ div.sepline .halftone {
 	max-width: 144px;
 	height: 100%;
 
-	mask-image: url(../_images/halftone.png);
-	-webkit-mask-image: url(../_images/halftone.png);
+	mask-image: url("../images/halftone.png");
+	-webkit-mask-image: url("../images/halftone.png");
 }
 div.halftone.left {
 	transform: rotate(180deg);
@@ -441,7 +441,7 @@ div.mobilelegal div p:first-child {margin-top: 0;}
 div.mobilelegal div p:last-child {margin-bottom: 0;}
 
 #pghome main {
-	background-image: url("../_images/splash1200px.jpg");
+	background-image: url("../images/splash1200px.jpg");
 	background-size: cover;
 	background-position: left;
 	color: white;
@@ -789,13 +789,13 @@ div.flank.left {
 	grid-column: 1 / 2;
 	flex-direction: row-reverse;
 
-	background-image: url(../_images/flankleft.jpg);
+	background-image: url("../images/flankleft.jpg");
 	background-position: -10%;
 }
 div.flank.right {
 	grid-column: 3 / 4;
 
-	background-image: url(../_images/flankright.jpg);
+	background-image: url("../images/flankright.jpg");
 	background-position: center;
 }
 div.halftone {
@@ -805,8 +805,8 @@ div.halftone {
 	height: 100%;
 
 	background-color: var(--brandingprimary_shadedown2);
-	mask-image: url(../_images/halftone.png);
-	-webkit-mask-image: url(../_images/halftone.png);
+	mask-image: url("../images/halftone.png");
+	-webkit-mask-image: url("../images/halftone.png");
 }
 div.halftone.left {
 	transform: rotate(180deg);

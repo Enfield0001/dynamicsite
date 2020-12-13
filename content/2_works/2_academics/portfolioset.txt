@@ -1,1 +1,21 @@
 Title: Academics
+
+----
+
+Description: 
+
+----
+
+Private: false
+
+----
+
+Css-ref: academics
+
+----
+
+Copyhead: 
+
+----
+
+Bodycopy: 

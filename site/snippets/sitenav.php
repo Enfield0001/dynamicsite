@@ -1,3 +1,9 @@
+<?php
+$expandsvg = asset('assets/images/expand.svg')->url();
+$logo_whitesvg = asset('assets/images/logo_white.svg')->url();
+$logotype_nooutlinesvg = asset('assets/images/logotype_nooutline.svg')->url();
+?>
+
 <body id="pg<?= $page->css_ref() ?>">
 <div class="flank left">
 	<div class="halftone left"></div>
@@ -13,22 +19,22 @@
 	</header>
 	<nav class="menumodifier">
 		<ul>
-			<?php foreach($site->children() as $firstlvlitem): ?>
+			<?php foreach($site->children()->listed() as $firstlvlitem): ?>
 				<?php if($firstlvlitem->css_ref() === "works"): ?>
 					<!-- Plus 2 to include the topmost "Works" button first. Plus 1 to refer to the rest of the buttons. -->
 					<?php
 						$workspos = $firstlvlitem->num();
-						$workssum = $firstlvlitem->children();
+						$workssum = $firstlvlitem->children()->listed();
 						$worksend = $firstlvlitem->num() + $workssum;
 					?>
 					<li class="<?= $firstlvlitem->css_ref() ?>" style="grid-row: <?= $workspos ?> / <?= $worksend + 2 ?>;">
 						<a href="<?= $firstlvlitem->url() ?>"><?= $firstlvlitem->title() ?></a><ul style="grid-row: 2 / <?= $workssum + 1 ?>;">
-							<?= foreach($firstlvlitem->children() as $seclvlitem): ?>
+							<?php foreach($firstlvlitem->children() as $seclvlitem): ?>
 								<li class="<?= $seclvlitem->css_ref() ?>">
 									<a href="<?= $seclvlitem->url() ?>"><span>Done in</span> <br>
 										<?= $seclvlitem->title() ?></a>
 								</li>
-							<?= endforeach ?>
+							<?php endforeach ?>
 						</ul>
 					</li>
 				<?php else: ?>
@@ -37,9 +43,7 @@
 			<?php endforeach ?>
 		</ul>
 		<div>
-			<p>&copy; 2020 Paul Edmiston.<br>
-			All rights reserved.</p>
-			<p>The Roundel and Logotype are trademarks of Paul Edmiston that really ought to be registered.</p>
+			<p><?= $site->legal()->html() ?></p>
 		</div>
 	</nav>
 </div>

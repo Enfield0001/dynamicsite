@@ -1,13 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>My Site: <?= $page->title() ?></title>
-	<?= css('assets/css/main.php') ?>
-</head>
-<body>
-	<h1><?= $page->title() ?></h1>
-	<?php snippet('test') ?>
+<?php 
+$mainjs = asset('scripts/main.js')->url();
+?>
+
+<?= snippet('sitehead') ?>
+<?= snippet('sitenav') ?>
+
+<main>
+	<div class="maininterior">
+		<h2><?= html($page->copyhead()) ?></h2>
+		<article>
+			<p><?= html($page->bodycopy()) ?></p>
+		</article>
+	</div>
+</main>
+
+<!-- To end the sitenav maininterior -->
+</div>
+<div class="flank right">
+	<div class="halftone right"></div>
+</div>
+<script src="<?= $mainjs ?>"></script>
 </body>
 </html>

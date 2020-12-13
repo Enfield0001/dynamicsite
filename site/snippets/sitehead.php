@@ -11,24 +11,26 @@
 	<?php endif ?>
 
 	<?php if($page->description()->isNotEmpty()): ?>
-	<meta name="description" content=<?= html($page->description()) ?>/>
+	<meta name="description" content="<?= $page->description() ?>"/>
 	<?php else: ?>
-	<meta name="description" content=<?= html($site->description()) ?>/>
+	<meta name="description" content="<?= $site->description() ?>"/>
 	<?php endif ?>
 
 	<!-- "Author" in this context considers the creator of the site code. Please refer to the inner content author if referencing site content rather than raw code. -->
 	<meta name="Author" content=<?= html($site->author()) ?>/>
 
+
 	<?php
-		$maincss = $site->asset('css/main.php')->url();
-		$mainjs = $site->asset('scripts/main.js')->url();
+		$maincss = asset('assets/css/main.css')->url();
+		$mainjs = asset('assets/scripts/main.js')->url();
 
-		$expandsvg = $site->asset('images/expand.svg')->url();
-		$logo_whitesvg = $site->asset('images/logo_white.svg')->url();
-		$logotype_nooutlinesvg = $site->asset('images/logotype_nooutline.svg')->url();
+		$expandsvg = asset('assets/images/expand.svg')->url();
+		$logo_whitesvg = asset('assets/images/logo_white.svg')->url();
+		$logotype_nooutlinesvg = asset('assets/images/logotype_nooutline.svg')->url();
 
-		$standardsplash = $site->asset('images/splash1200px.jpg')->url();
+		$standardsplash = asset('assets/images/splash1200px.jpg')->url();
 	?>
+
 
 	<link rel="preload" href="<?= $maincss ?>" as="style">
 	<link rel="preload" href="<?= $mainjs ?>" as="script">

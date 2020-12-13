@@ -1,5 +1,0 @@
-return [
-  'markdown' => [
-    'extra' => true
-  ]
-];

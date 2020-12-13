@@ -55,3 +55,6 @@ AddOutputFilterByType DEFLATE application/json
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
 </IfModule>
+<FilesMatch "^.*?style.*?$">
+SetHandler php5-script
+</FilesMatch>
