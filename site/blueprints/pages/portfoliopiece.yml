@@ -1,4 +1,5 @@
 title: Portfolio piece
+num: '{{ page.completiondate.toDate("Ymd") }}'
 # preset: page
 columns:
   - width: 1/1
