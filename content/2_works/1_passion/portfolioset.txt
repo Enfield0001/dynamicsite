@@ -6,11 +6,27 @@ Description:
 
 ----
 
-Private: false
+Private: true
 
 ----
 
-Cssref: passion
+Css-ref: passion
+
+----
+
+Bodycopy: My best passion projects have been those that integrate my interests in art and design. I take great pleasure in the occasional opportunity to create eyecatching looks for myself, the people around me, and the communities I'm involved in.
+
+----
+
+Bodyimg:
+
+- passiondoodle.png
+
+----
+
+Buttonimg:
+
+- passionbutton.png
 
 ----
 
@@ -18,4 +34,4 @@ Copyhead:
 
 ----
 
-Bodycopy: 
+Cssref: passion

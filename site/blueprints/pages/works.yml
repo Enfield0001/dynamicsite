@@ -1,4 +1,4 @@
-title: Default
+title: Works
 # preset: page
 columns:
   - width: 1/1
@@ -44,5 +44,5 @@ columns:
         headline: Body image
         type: files
         layout: cards
-        template: single-image
+        template: doodle
         max: 1

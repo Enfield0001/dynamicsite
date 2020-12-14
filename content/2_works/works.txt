@@ -10,12 +10,16 @@ Private: false
 
 ----
 
+Css-ref: works
+
+----
+
+Copyhead: Check me out!
+
+----
+
+Bodycopy: For just about several years now, I have been doing graphic and web design related work in my passions, my academic work, and the occasional freelance assignment. Take a moment to browse through some of my best work through the years!
+
+----
+
 Cssref: works
-
-----
-
-Copyhead: 
-
-----
-
-Bodycopy: 

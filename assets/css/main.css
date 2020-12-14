@@ -712,6 +712,7 @@ main .maininterior {padding-top: 5rem;}
 	margin: 2rem;
 	margin-left: 0;
 	margin-top: 0;
+	shape-margin: 2rem;
 
 	float: left;
 }

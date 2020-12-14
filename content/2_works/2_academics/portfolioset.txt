@@ -10,12 +10,28 @@ Private: false
 
 ----
 
+Css-ref: academics
+
+----
+
+Bodycopy: I have had the privilege of being in an academic environment which provides me with creative opportunities since high school. As I prepare to transfer to SF State in 2021, I'll have the opportunity to be in more classes specific to my major. Stay tuned for work from those classes!
+
+----
+
+Bodyimg:
+
+- academicsdoodle.png
+
+----
+
+Buttonimg:
+
+- academicsbutton.png
+
+----
+
 Cssref: academics
 
 ----
 
 Copyhead: 
-
-----
-
-Bodycopy: 

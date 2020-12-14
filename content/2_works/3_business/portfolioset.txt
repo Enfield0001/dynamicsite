@@ -10,6 +10,22 @@ Private: false
 
 ----
 
+Css-ref: business
+
+----
+
+Bodycopy: I take pleasure in the occasional opportunity apply my talents professionally while I'm still in education. I have the privilege of trying out freelance work by occasionally creating album covers and branding material for Colin Judd, a musical artist. Over the years of collaborating, there have been a couple of covers that stand out from the rest.
+
+----
+
+Bodyimg: - businessdoodle.png
+
+----
+
+Buttonimg: - businessbutton.png
+
+----
+
 Cssref: business
 
 ----
@@ -18,4 +34,67 @@ Copyhead:
 
 ----
 
-Bodycopy: 
+Buttomimg:
+
+- 
+  filename: businessbutton.png
+  dragText: '(image: businessbutton.png)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: false
+    url: >
+      http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton.png
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-352x.png
+        352w,
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-864x.png
+        864w,
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-1408x.png
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-38x38.png
+        1x,
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-76x76.png
+        2x
+  id: works/business/businessbutton.png
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton.png
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-352x.png
+        352w,
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-864x.png
+        864w,
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-1408x.png
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-38x38.png
+        1x,
+        http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton-76x76.png
+        2x
+  info: ""
+  link: >
+    /pages/works+business/files/businessbutton.png
+  text: businessbutton.png
+  type: image
+  url: >
+    http://localhost/sk3/media/pages/works/business/08d49794ac-1607905379/businessbutton.png
+  uuid: businessbutton.png

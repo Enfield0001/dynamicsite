@@ -4,7 +4,7 @@ $logo_whitesvg = asset('assets/images/logo_white.svg')->url();
 $logotype_nooutlinesvg = asset('assets/images/logotype_nooutline.svg')->url();
 ?>
 
-<body id="pg<?= $page->css_ref() ?>">
+<body id="pg<?= $page->cssref() ?>">
 <div class="flank left">
 	<div class="halftone left"></div>
 </div>
@@ -44,7 +44,7 @@ $logotype_nooutlinesvg = asset('assets/images/logotype_nooutline.svg')->url();
 			<?php endforeach ?>
 		</ul>
 		<div>
-			<p markdown="1"><?= $site->legal()->kirbytext() ?></p>
+			<?= $site->legal()->kirbytext() ?>
 		</div>
 	</nav>
 </div>
