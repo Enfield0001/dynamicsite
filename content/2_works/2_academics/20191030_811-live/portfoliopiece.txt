@@ -1,0 +1,288 @@
+Title: 811 Live
+
+----
+
+Description: 
+
+----
+
+Private: false
+
+----
+
+Cssref: academics
+
+----
+
+Theprompt: An attractive, feasible proof of concept with pro-grade designs to back it up.
+
+----
+
+Theproduct: Create an app idea and take it from conception to product site.
+
+----
+
+Completiondate: 2019-10-30
+
+----
+
+Synopsis: An elementary exercise: create an app concept and sell it.
+
+----
+
+Heroimg:
+
+- 811livehero.jpg
+
+----
+
+Approxtimeframe: ~1 month
+
+----
+
+Genrole: Graphic designer, UI designer
+
+----
+
+Projectclient: 
+
+----
+
+Projectemployer: 
+
+----
+
+Software1tgl: true
+
+----
+
+Software1icn: axure
+
+----
+
+Software1dsc:
+
+##### Axure RP
+-  Creating interactive prototypes with near 1:1 behavior to a final, published product.
+
+----
+
+Software2tgl: true
+
+----
+
+Software2icn: figma
+
+----
+
+Software2dsc:
+
+##### Figma
+- Developing thoughtful and detailed style tiles for reference in site aesthetic.
+- Drafting complex mockups with near 1:1 likeliness to a final, published product.
+
+----
+
+Software3tgl: true
+
+----
+
+Software3icn: illustrator
+
+----
+
+Software3dsc:
+
+##### Adobe Illustrator
+- Creating vector based designs for site and brand visual identity.
+- Adapting professional vector brand assets to fit the site's (and the brand guide's) guidelines and needs.
+
+----
+
+Software4tgl: true
+
+----
+
+Software4icn: photoshop
+
+----
+
+Software4dsc:
+
+##### Adobe Photoshop
+- Creating raster based designs and assets for use in site illustrations and graphics.
+- Adapting professional vector brand assets to fit the site's (and the brand guide's) guidelines and needs.
+- Processing of digital RAW files for use in site graphics.
+
+----
+
+Software5tgl: false
+
+----
+
+Software5icn: 
+
+----
+
+Software5dsc: 
+
+----
+
+Software6tgl: false
+
+----
+
+Software6icn: 
+
+----
+
+Software6dsc: 
+
+----
+
+Software7tgl: false
+
+----
+
+Software7icn: 
+
+----
+
+Software7dsc: 
+
+----
+
+Software8tgl: false
+
+----
+
+Software8icn: 
+
+----
+
+Software8dsc: 
+
+----
+
+Miscsoftware: 
+
+----
+
+Skillsets:
+
+##### UI/X design
+-  App and marketing concept creation from initial brainstorming to interactive prototype.
+
+##### Graphic design
+-  Generation and execution of visual identity.
+-  Maximizing use of industry standard color systems (ie. Pantone) to ensure visual consistency in potential print marketing.
+-  Research of and abiding to existing brand style guides, such as 811's, to complement existing brand identity.
+-  Use of company provided assets and specifications, such as Google Play's, to meet expected standards with affiliates.
+
+##### Photography
+-  Product photography for use in design.
+-  Use of specialized digital RAW processing and developing software for precise control over asset characteristics.
+
+##### Project management
+-  Basic file management.
+
+----
+
+Portfolioarticle:
+
+<div class="figcenter">(image: splash.png caption: Crop of the initial hero picture. The hero was purposefully structured to communicate the most important functions of the app as possible on first impressions.)</div>
+
+Sometimes, just sometimes, a project comes along that you're simply inspired to do. The sort of project where it feels like all the gears are greased and you're undoubtedly in your element. I'm pretty sure this was one of those projects.
+<br>
+<br>
+I don't remember the rubric and prompt verbatim, but I do remember the gist. We had to create an idea for a product. Technically speaking, our product potential was no bars held. So long as you can come up with the idea itself and the marketing to complement it, the plausibility was secondary.
+
+<div class="figcenter">(image: concept.jpg caption: The first concept summary of 811 Live. My other ideas for a product or service included a modular backpacking system and a chain of locker storage units catering to commuters and cyclists.)</div>
+
+For some reason I fixated on the plausible. It meant that coming up with an idea may be a little bit tougher, but it also felt like it'd be easier to come up with the assets when it came time for marketing. An app especially would make it easy to come up with something believable and professional looking. Even if the technology to back up the app wasn't there, it's easier to illustrate a believable fake app than it is to illustrate a believable fake product. Stock images and photo doctoring can only take the latter so far.
+
+By this point, I had a sort of mental checklist for ideas worth giving more time. For me to really consider seeing an idea through, the product or service must:
+
+1. Be digitally based, so renderings of it are much more believable and won't require outside work to hunt down props.
+2. *Not* be a simple modification of an existing product or service, so as to provide an opportunity to create something new.
+3. Solve a problem that someone might practically encounter, or if it's a niche problem, be one that can be summarized.
+
+Raking through my head, I applied this checklist to sort of speed up the process of sifting through what had a chance and what would be a dud. A couple of technologies popped into my mind. Augmented Reality apps were an up and coming innovation that warranted consideration. What problem could an Augment Reality be applied to meaningfully?
+
+Well, how about digging a hole?
+
+811 was something that somehow came to mind, and I realized that this was an application worth considering. It seemed rather plausible, too. I'm not the brains of such an operation, but I'd figure it'd have to do with integrating a GIS map of underground utilities with an augmented simulation of the user's surroundings. So long as the data's there, someone could not just rely on an 811 flagging call to learn what's below. But they could verify a utility's precise location visually, on the spot.
+
+Sure it'd likely require interstate approval and a national database to happen, and sure it'd be likely to rely on a database that'd be one step behind. But by God, the technology is theoretically here. All things considered, it was an idea that was plausible to create. If it was plausible to create, it'd be plausible to market.
+<br>
+<br>
+<div class="figcenter">(image: logosketches.jpg caption: Sketch of the product site hero and logo concepts.)</div>
+
+Before I went any further, even before I did the wireframes in their entirety, I decided I purposely wanted to do some steps a bit backwards, at least according to how a purely UI/X designer might do this. A wireframe is undeniably focused less on the look of a product and more on its feel. It's about structure and layout, not design and aesthetic. I'd think it's improper though to say that the two are independent of each other. The aesthetics and visual identity of a product will influence how it's structured, and the feel and functionality of a product will influence how it's marketed.
+
+So before I dived deep into the structure of the product site and as much of the product itself that I needed, I wanted to give the brand visuals some thought. How are the essential branding elements going to look, and how might that influence how I approach the wireframes?
+
+If I had *one element* from a brand to build the rest of its marketing around, one brand element and nothing else at all, not even research or audience intuition, I'd go with the logo. A well rounded visual identity would place the logo as the most central element communicating a company's purpose and target. With a logo as the foundation, it's possible to specialize other elements and hone the visual identity even further. If I could only knock out one element before I had to focus my attention elsewhere for the time being, it'd be that.
+
+I had some things to consider when making the logo. A word dump was helpful in summarizing some basic characteristics to consider. In summary, I wanted a mark that felt approachable yet dignified. Human yet modern. I took the original logo and experimented with modifications. Playing with a smartphone visual was the first idea I considered. It'd reflect the Augmented Reality nature of the app and perhaps emphasize change from the old-fashion ways of calling up an appointment. But phone visuals looked clunky and forced.
+
+I thought back to the tagline I was playing with for this project: "Look before you dig." Perhaps I could play around with eye visuals somehow. But how exactly? Flipping the logo on its side and using the 8 as an eye pair looked weird to me. Putting the eyes below the 1's and using the numbers like eyebrows felt like it disturbed visual balance, and *really* using the serifs on the 1's felt too dorky to me.
+
+<div class="figcenter">(image: logofinal.png caption: The final logo in full color.)</div>
+
+How about putting the 1's in the irises, and letting the eyes take the place that's normally taken up by the 1's in the logo? I figured it could be done. If I designed it right, the eyes wouldn't be mistaken for 0's, either. The irises wouldn't have to be too stylized either to imply a 1. The end result was a logo I could respect that was independent from 811, but still related enough to show a brand connection.
+<br>
+<br>
+Was the logo technically a breach of 811 style guides? Undeniably. Any logo that involves gutting a previous one would technically be so. But the priority of a style guide is to direct the brand as it stands, not to direct diverging or forward steps. When you're making new that brings radical changes to a product's flow, I think it's not out of line to say the new branding can, and *should,* reflect that change has come. I'm not one to simply say the rules are meant to be broken, but rather they're meant to be broken thoughtfully.
+
+<div class="figcenter">(image: wireframe.png caption: An excerpt from the product site wireframe. [You can view the wireframe in full here.](https://www.figma.com/file/hUaJ8F7hK34me21tHsUWMq/Product-site-Wireframe))</div>
+
+With the most important brand element knocked out, I had a general feel for how I wanted the look and feel to come together. This was a product that should be approachable to a mass market, not a niche one. This wasn't a time to use specialty trade talk as much as it was a time to show we had something a layman could use. I wanted something that communicated a sort of casual professionalism: you shouldn't feel babied to approach us, but we are undoubtedly equipped to help you get the job done.
+
+So I went with a structure to complement these desires. I made use of testimonials and descriptions that would appeal not just to professionals like laborers, but to casuals like homeowners. 811 Live isn't meant to be a simple replacement, but a proper complement. Even if someone still wanted to have a professional on the field, it's meant to be easy to summon one. To look approachable and accountable were priorities here.
+<br>
+<br>
+<div class="figcenter">(image: palette.png caption: The full explicitly defined color palette for the style tile. [You can view the style tile in full here.](https://www.figma.com/file/RxFmvsHDryda9StO7PupiW/Product-site-Style-tiles))</div>
+
+With an idea of the structure laid out, it was time to flesh out the visual identity even further. I had a good idea of where I wanted to take the branding. There's already an existing visual identity for the 811. Logo aside, I paid attention to keeping the identity between 811 Live and its source as interconnected and consistent as possible. Coloring was given the most attention, as it was the most achievable to keep consistent. I derived a full color palette, including an emphasis contrast and caption shade, from the original few explicitly defined Pantone values. While the approved typeface was achievable in static applications, it wasn't for a site. The requested typeface was one that couldn't be reliably rendered on most computers, and I took the assumption that licensing a web variant would be theoretically impractical in a professional scenario. I decided Roboto, a Google font freely available for web use, would be the closest acceptable match on the site. The primary tagline for the app was a simple play on 811's: "Look before you dig," preferably stylized with eyes.
+
+There were certain brands that had to be maintained within strict confines given their application. Badges for Google Play and the App Store were taken directly from the source to maintain expected visuals. As the FCC and the CGA were the theoretical heads to this exercise, I also kept their logos untouched to maintain their identity. Looking back, it may have been best practice as well to include logos and links to 811 itself. At the time I figured CGA would be enough, but if this were a real product, it's at least proper to more explicitly connect it to the parent. Regardless, if this were a professional scenario at all, I would've consulted directly with the companies involved to iron out those details. Some decisions really are best decided by committee.
+<br>
+<br>
+<div class="figcenter">(image: mockup.png caption: One of the sections in the final mockup. In addition to self made app visuals and selection of choice stock imagery, the production of 811 Live marketing material used platform specific assets, guidelines, and specifications to make for a professional look. [You can view the mockup in full here.](https://www.figma.com/file/aL3qofaGTaoAXK6rAatyY4/Product-site-Mockup))</div>
+
+It was simple to accomplish the site mockup from a technical standpoint. The site content was complete, I had a robust style tile to apply the wireframes to, and I knew where I wanted to take the project if I needed to make any decisions deviating from the wireframes.
+
+What required the most labor at this point wasn't applying the brand to the site, but applying it to the app. We were selling a product and making it too, and up until now, I hadn't worked out how the app itself would look except for the Augmented Reality screen, and even then it was only planned out enough to communicate the app's highlight feature. This was less an exercise in the product design than it was an exercise in marketing, so we didn't have to give it too much thought in the first place. But to advertise the product and its features at all, I needed to work out what the app could do.
+
+Fortunately I worked out the primary features, Augmented Reality included, in the wireframe stage. I focused on three features:
+
+1. The Augmented Reality, which maps out underground utilities based on the camera and the user's location.
+2. A detailed view, which views the utilities by a map or list.
+3. An assistance menu, for material like mark up tools, advice, and summoning a professional on-site.
+
+So now it was time to make mockups not just for the site, but for screens of the app. I didn't want to try and figure out how to program an app in the moment, so actually coding something up, even if that "something" was a mockup and essentially smoke and mirrors, was not considered. I considered Figma for a moment, but figured I'd feel limited by it. I needed to be extra involved in the graphics to simulate actual coded mechanics, and Figma didn't feel robust enough for me to do that.
+
+I ended up using not just Photoshop, but Illustrator as well.
+
+Photoshop made the most sense since the app mockups were primarily going to be raster based designs. I was simulating pixels on a screen, it was the obvious choice to me. The problem I encountered with Photoshop was simulating the 3D Augmented Reality underground pipes. I couldn't get a line to simulate that just right. I could've painted it manually, but that would take more time than I had. I considered asking a friend who knew how to work with a 3D rendering software to make it happen, but that had the same time problem.
+
+Ultimately I realized that Illustrator of all programs could be my solution to simulate the pipes. Illustrator's stroke modifications are incredibly robust. I was able to play with the width and gradient fills to simulate the look without having to go through the labor to actually make it happen. So I did the pipes on a scrap Illustrator file, pasted them into the Photoshop files as smart objects, and settled on that. The rest of the mockup elements were straightforward to achieve.
+<br>
+<br>
+<div class="figcenter">(image: logohidden.png caption: The logo purposely hides behind the splash until it's revealed while scrolling through the body. This is one of the behaviors that I couldn't replicate in Figma. [You can view the final prototype in full here.](https://pauledmistonartdm.com/works/academics/811live/rv2n33.axshare.com))</div>
+
+The last step we had to do for this project was convert the mockup into a prototype. So long as the prototype showed functionality, we were given free rein over what program we made our prototype in. Figma was the generally suggested answer, and I gave it some experimentation. There were a couple of problems with it, though.
+
+The first was that hotspots couldn't simply link to a scroll location. Hotspots in Figma have to link to a separate frame.
+
+The second was that fixed elements had to go on top of everything else. You couldn't fix an element's position and let it be behind something that's relative. I wanted the logo to be a link to return the window position to the top, and I wanted it to hide behind the hero so it scrolled into view as the user reached the main copy. This specific issue alone hit both of my problems with Figma.
+
+Both of these problems were how Figma behaved then, and as of checking on December 2020, it remains how it is now. If there's a bodge to get around these issues, it's currently beyond me.
+
+I decided that I'd give Axure RP a shot. I heard good things about it previously and it was implied we'd use it later on, so I decided to get ahead of the curve and see where I went with it. It was love at first sight. Like Photoshop, it's a complex program with its own learning curve. But once you get the hang of it, Axure offers a degree of fidelity and complexity that cannot be beat. When I get the opportunity to choose what software I use when I'm working on wireframes or prototypes, Axure's my go to.
+<br>
+<br>
+Looking back, 811 Live was one of those once in a blue moon projects where it seems everything goes right. The end product has a look and feel that I'm still proud of. From what I remember, it was delivered on time (or if it wasn't, it's tardiness wasn't on the scale of weeks.) If this were not just an academic exercise but a professional project, I bet it would've been ahead of schedule and under budget. It's hard to think of anything I would have done differently, at least right now.
+
+What I have no doubt of is that if I had to do it all over again, I don't think I'd mind at all.

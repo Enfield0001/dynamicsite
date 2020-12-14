@@ -1,0 +1,204 @@
+Title: Turning Points
+
+----
+
+Description: 
+
+----
+
+Private: false
+
+----
+
+Cssref: business
+
+----
+
+Theprompt: Create an album cover for an artist's first digital release.
+
+----
+
+Theproduct: An sleek piece with an impressive turnout time.
+
+----
+
+Completiondate: 2017-08-25
+
+----
+
+Synopsis: As Colin's first album with a proper digital release, it was necessary to start off on the right foot.
+
+----
+
+Heroimg:
+
+- turningpointshero.jpg
+
+----
+
+Approxtimeframe: < 1 week
+
+----
+
+Genrole: Graphic designer
+
+----
+
+Projectclient: Colin Judd
+
+----
+
+Projectemployer: 
+
+----
+
+Software1tgl: true
+
+----
+
+Software1icn: lightroomc
+
+----
+
+Software1dsc:
+
+##### Adobe Lightroom (Classic)
+- Organizing and selecting choice photographs for use in designs.
+- Preparing digital RAW files for application in designs.
+
+----
+
+Software2tgl: true
+
+----
+
+Software2icn: photoshop
+
+----
+
+Software2dsc:
+
+##### Adobe Photoshop
+- Creating raster-based designs ready for both digital and print application.
+- Preparing pieces to fit precise specifications in application.
+
+----
+
+Software3tgl: false
+
+----
+
+Software3icn: 
+
+----
+
+Software3dsc: 
+
+----
+
+Software4tgl: false
+
+----
+
+Software4icn: 
+
+----
+
+Software4dsc: 
+
+----
+
+Software5tgl: false
+
+----
+
+Software5icn: 
+
+----
+
+Software5dsc: 
+
+----
+
+Software6tgl: false
+
+----
+
+Software6icn: 
+
+----
+
+Software6dsc: 
+
+----
+
+Software7tgl: false
+
+----
+
+Software7icn: 
+
+----
+
+Software7dsc: 
+
+----
+
+Software8tgl: false
+
+----
+
+Software8icn: 
+
+----
+
+Software8dsc: 
+
+----
+
+Miscsoftware: 
+
+----
+
+Skillsets:
+
+##### Graphic design
+- Idea generation and execution.
+- Research and work within precise specifications for digital (eg. Spotify) and print (eg. jewelcase) application.
+
+##### Photography
+- Night time photography for use in design.
+- Use of specialized digital RAW processing and developing software for precise control over asset characteristics.
+
+##### Project management
+- Collaboration and digital product delivery with client.
+- Basic file management.
+- Invoicing and project pricing.
+
+----
+
+Portfolioarticle:
+
+<div class="figcenter">(image: albumcover.png caption: The final album cover.)</div>
+
+I think the first time Colin ever approached me to do something to complement his talents was 2016. Maybe even earlier, but 2016 is the most concrete year I can pull up. We were purely amateur in the sense that we weren't expecting our talents to generate money. Neither of our end goals were aimed towards being professionals in our talents, either. Colin was looking to get into Economics, and at the time I was confident I would get into a strictly programming career. It seemed to me we were mainly looking at doing our thing at the hobbyist level. Colin would occasionally write songs and maybe get enough to form an album, physically handing out CDs to interested friends and family. I'd make the occasional Youtube video and branding content for him. We were interested in playing around, but from what I remember, that was the limit of it.
+
+2017 was about the time we both started to think bigger. If we weren't thinking our profits in these endeavors would get bigger, we were certainly looking at bigger, more involved projects at least. By 2017, I had just about switched my career interests towards something more design heavy. I learned how passionate I was for graphic design the year before, and after taking about half a class of Java, I decided a design based career would be a better fit.
+
+Colin's primary professional interests were more stable than mine, but he still had a passion for the music he created. He told me about the album he was working on that year, *Turning Points.* Despite his professional focuses, this album was nonetheless going to be a milestone for him. The album and its songs weren't just going on Youtube. Colin was going for a full digital release: Spotify, iTunes, Apple Music, Google Play. It was the first time he went for a release that had the potential for more than just views.
+
+It was a release that warranted, and by its nature required, a proper design production.
+<br>
+<br>
+Looking back on it a few years later, what surprises me isn't how it turned out, but how quick it was to create. What evidence I have left to work with says I put together the album cover in the span of not a week, but as short of a time as two days.
+
+When I first realized this, I was surprised. I have a hard time believing I could churn out an album suite *now* in a week without assets at the ready, let alone make one back then. It took thinking it through to realize why exactly it seems it took so little time: because all things considered, it really didn't.
+
+<div class="figcenter">(image: ytthumb.png caption: The Youtube thumbnail for the album's namesake song. The song "Turning Points" had been released earlier at the start of 2017.)</div>
+
+The actual production of it may have took only two days, but not the identity it stands on. I created the visual identity backing the album's namesake song back in January of the year. I had a sense of where I wanted to take it then: a subject facing a future much, much larger than themselves. One of uncertainty, almost leaning on brooding. If nothing else, mature.
+
+A few months later, I was asked to create a video for another song which would ultimately go on the album. I used it as an opportunity to build on the visual identity from the earlier song. By the time we were working on the album to bring it all together, for all intents and purposes, there was very little I felt the need to do than build on a pre-existing motif.
+<br>
+<br>
+Looking back, what *Turning Points* goes to show for me is the power of building on what's already present. I think designers are often pressured from those not in the know to somehow reinvent the wheel whenever they work. That to create something great as a designer, you need to tear the house down and build something else on the plot. I think this is an expectation that is impractical more often than not. The most reliable means to make something great isn't rebuild, but to build up.

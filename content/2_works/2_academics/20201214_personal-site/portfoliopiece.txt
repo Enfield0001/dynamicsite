@@ -1,0 +1,305 @@
+Title: Personal site
+
+----
+
+Description: 
+
+----
+
+Private: false
+
+----
+
+Cssref: academics
+
+----
+
+Theprompt: Create a portfolio site.
+
+----
+
+Theproduct: A career-ready digital presence and a complex, humbling lesson.
+
+----
+
+Completiondate: 2020-12-14
+
+----
+
+Synopsis: An albatross around the neck shows the complexity of the hero.
+
+----
+
+Heroimg:
+
+- personalsitehero.jpg
+
+----
+
+Approxtimeframe: 4 weeks (3 weeks for the front end, 1 for back end)
+
+----
+
+Genrole: Graphic designer, Web designer (Front and back end)
+
+----
+
+Projectclient: 
+
+----
+
+Projectemployer: 
+
+----
+
+Software1tgl: true
+
+----
+
+Software1icn: axure
+
+----
+
+Software1dsc:
+
+##### Axure RP
+- Creating informative and thorough wireframes for reference in site structure on per-page basis.
+
+----
+
+Software2tgl: true
+
+----
+
+Software2icn: illustrator
+
+----
+
+Software2dsc:
+
+##### Illustrator
+- Drafting a clear, professional site map for reference in overall site layout.
+- Creating vector based designs for site and personal brand visual identity.
+
+----
+
+Software3tgl: true
+
+----
+
+Software3icn: kirby
+
+----
+
+Software3dsc:
+
+##### Kirby 3
+- Development and maintenance of an approachable and thorough back-end.
+- Adapting static elements for a dynamic site.
+
+----
+
+Software4tgl: true
+
+----
+
+Software4icn: photoshop
+
+----
+
+Software4dsc:
+
+##### Adobe Photoshop
+- Developing thoughtful and detailed style tiles for reference in site aesthetic.
+- Creating raster based designs for use in site illustrations and graphics.
+
+----
+
+Software5tgl: true
+
+----
+
+Software5icn: vscode
+
+----
+
+Software5dsc:
+
+##### Visual Studio Code
+- Programming/markup with HTML, CSS, PHP, YAML, and Javascript.
+
+----
+
+Software6tgl: false
+
+----
+
+Software6icn: 
+
+----
+
+Software6dsc: 
+
+----
+
+Software7tgl: false
+
+----
+
+Software7icn: 
+
+----
+
+Software7dsc: 
+
+----
+
+Software8tgl: false
+
+----
+
+Software8icn: 
+
+----
+
+Software8dsc: 
+
+----
+
+Miscsoftware:
+
+- Cyberduck
+- Sublime Merge
+- Git Bash
+- GitHub
+- MAMP
+
+----
+
+Skillsets:
+
+##### Web design, Front end
+- Full service static site creation from sitemap to publish.
+- Thorough, responsive design utilizing CSS and Javascript.
+
+##### Web Design, Back end
+- Reliable form management and delivery utilizing PHP.
+- Conversion of static assets to a dynamic site for ease of editing via. Kirby 3.
+
+##### Graphic design
+- Generation and execution of visual identity.
+- Appropriate use of both vector and raster based graphics and designs for applications from branding to general aesthetics, all of which adapted properly for digital use.
+
+##### Project management
+-  Advanced file management utilizing Git.
+
+----
+
+Portfolioarticle:
+
+<div class="figcenter">(image: wipsplash.png caption: Concept sketch of the redesign's work in progress page. Work on a new personal site technically started more than a year ago.)</div>
+
+So what happened? That's a critical question that's honestly difficult to explain. The lesson is worthwhile, but somehow complex and with more variables than I anticipated. What that means is a long story. I'm not about to dismiss it, but I hope you brought coffee.
+<br>
+<br>
+Maybe it's just me, but I making this site made me realize that portfolios can be an incredibly humbling experience.
+
+When I first sat down to start work on this site, and perhaps more importantly my updated portfolio, I figured it would be easy. I made a digital portfolio back in 2016 to get into a Yearbook class of all things. For 17 year old me, I found it to be pretty impressive. It had a fair amount of works in it, the works were of respectable quality, and everything was done for academics. For the application, it fit the bill nicely. I'd say so at least, given that I got a seat in the class and commendation for my application despite signing up past the deadline.
+
+But it came before a time I learned to do make a site from scratch. It was a Weebly drag-and-drop, and as drag-and-drops often go, it seemed to lack a truly personal feel no matter how much I tried to deviate from the prebuilt template. I felt a yearning for a change.
+
+So some time after my first Web Design class in 2018, I knew the writing on the wall for a new site to fulfill those very desires, and with a new site would inevitably mean a refresh of my portfolio. I wasn't in the search for a new job and I figured there wasn't anyone out there that needed to reach me through my site. So in late 2019, I decided to officially start the process. I cut ties with Weebly and had my hosting done through my Dad's AWS front. I gave the site a quick and dirty work-in-progress front in the meantime. I figured that by the time Web Design II came in 2020, it would all come together.
+<br>
+<br>
+2019 me didn't realize a few important variables, at least one of which was not entirely in his control. I'll describe them in order of least to most impactful.
+<br>
+<br>
+<div class="figcenter">(image: oldartboards.png caption: Varations of the old logotype, directly from Illustrator. While the inner logo was revised, many elements like Pantone 7481C and use of Avenir were holdouts.)</div>
+
+The first problem was branding. The Paul Edmiston brand was entering a revision as early as 2018 for what was ultimately a simple reason: the US shades had to go.
+
+In my defense, for a while it had a personal value. Maybe that personal value was ultimately an inside joke based around a pair of sunglasses I bought at Six Flags back in 8th Grade, but I still say that's personal value. Either way, it was a simpler time where I used my personal brand on personal matters as well as more disconnected online material. It meant applying a generalist that was purposely more casual, even if in hindsight casual was more like tacky.
+
+<div class="figcenter">(image: noshadesconcept.png caption: A concept logo revision, circa 2016.)</div>
+
+Looking back, I think part of me recognized the tackiness and even tried to find ways to nudge the logo towards a less tacky direction. At various points in time in high school, I experimented with variations. Yet at the time, no variation felt unique enough to stand on its own. In a way, for better or worse, the US shades leant a personal charm to the system.
+
+It was an experimentation that would continue for literally years, until I got around to recreating it from the ground up in 2019. It was great! Now I had my hands on a logo that felt like the best of both of my goals: sleek and sharp, yet retaining its character from a personal history of art.
+
+But then I realized it meant applying that update in branding to everywhere else.
+
+It's a simple problem, but one which can drag on for ages. The good thing about a robust branding system, even if it isn't formulated in a style guide, is that you have a robust plan and asset inventory to work with. The bad thing is that when you update it, it's a lot of work. A lot of work.
+
+So much work that it meant playing brand catch-up when a project came around for it. Drat!
+<br>
+<br>
+My second problem was one I didn't realize was a problem until I got into it: 2020. The COVID lockdown and its rippling ramifications throughout society.
+
+<div class="figcenter">(image: map.png caption: A map charting my progress to hike all of Las Trampas. Note that it hasn't been edited since mid October 2020.)</div>
+
+Productivity wise, this was the sort of situation I thought would be a boon for me on paper. Having my responsibilities adapt to work from my computer meant I could have an experience tailored to my own personal workflow. It meant more personal control and less time spent on things that didn't explicitly contribute to my aspirations, like driving on I680, having to find a spot to eat lunch, or spend more time than I really felt like spending preparing myself for the day. It meant I had more time to focus on what I wanted to do, like draw that comic I had in my head, experiment with a social media presence, or properly exercise. I whole heartily felt for those that weren't as fortunate, but undeniably I knew I theoretically had my hands on a moment of productivity.
+
+But as many things that look good on paper tend to go, it didn't quite work out that way.
+
+It was the first time I think I felt independent in a meaningful way. Sure, I had my share of milestones before 2020: got my own car, was in community college, turned 21, had access to my own independent funds not immediately under the scrutiny of my parents. But before the COVID lockdowns, obligations and responsibilities more or less felt like they were handed to me, or at least concretely easy to see and concretely hard to ignore.
+
+In a way, 2020 was the first time I faced this sort of critical realm of independence. Physical institutions, the act of actually going to them, and even the simple things waking up in the morning and fixing your bed have a way of communicating concrete senses of responsibility and obligation that I currently find lacking in my current schema of working online. You don't yet get the same casual, unplanned yet meaningful pointers in the right direction that come with a physical space. My sense of responsibility and obligation were no longer buildings I went to, but this vague cloud of ideas. My focus experienced a short circuit.
+
+<div class="figcenter">(image: misbalanced.png caption: This is a Survey of Broadcasting and Electronic Media class. I'm not saying this stuff isn't important, but I was expecting a little more...media.)</div>
+
+Working online, I found myself more often than not at best doing the minimum to scrape by. If I was lucky, I could rouse myself to be passionate and operate on motivation rather than discipline. This was easy to do with students that needed help from a TA or when locking horns with a self-flogging professor that can be squarely summarized as "Cellphones Bad, America Bad." But motivation is an unreliable fuel. It burns twice as bright as discipline while lasting half as long. After realizing my final in my Media class had less to do with the media and more to do with why capitalism and technology are nothing but trouble, I wanted to do literally anything but see Canvas again.
+
+But even this aspect of my unprecedented independence could be overcome, and as hard as it is, it wasn't the one that worried me. I wouldn't realize what *really* worried me this whole time until I snapped out of it two weeks later.
+<br>
+<br>
+If you haven't had the pleasure to build a portfolio from the ground up in a while without using professional works, let me walk you through my own experience.
+
+From my knowledge, the best portfolios should:
+
+1. Contain about a dozen works in total, give or take depending on whether or not you segregate it into categorized sets.
+2. Reflect your work within as wide an applicable range of disciplines as possible.
+
+Ideally, most of the involved works should:
+
+1. Allow for a substantial amount of background for you to explain either verbally or in writing.
+2. Be done for a client of some sort, profit driven or not.
+3. Be based on original content, or at least commissioned from an officially approved client like the content's source creator.
+4. Be done relatively recently, at least within your personal timeline of projects.
+
+When I took tally of the works I did and what could reasonably go in the portfolio now, I faced a set of startling realizations:
+
+1. I *barely* had anything that I felt could go in an updated 2020 portfolio.
+2. Within that subset, barely anything was done for a client, let alone a professional one.
+3. A lot of my work, at least illustration speaking, was fan-based creations; ie. not ultimately based on original content.
+
+My first time putting this together admittedly felt a lot like looking into an artistic abyss. I was facing the career equivalent of an existential crisis. To put it lightly, this wasn't the time for that.
+
+Here I was three years deep into my time looking into this as a professional career, yet outside of the academics, it really felt like I didn't have much to show for it. Sure I expected that to be the case for the business end. With a focus on my academics, I knew I was going to put a job in disregard. That wasn't the side of the coin that worried me. My stalling was a manifestation of a worry that had been abstractly clouding me for longer than I realized: my personal passion has stagnated.
+
+My creative outlets are, for better or worse, potent parts of my identity. Times when I'm churning out more artwork seem to be times when I'm at my peaks, and times when my output feels stagnated are times when I feel like I'm in a slump. For a brief period in time, I'd go through a sketchbook in a little less than a year. I'd have a finalized, full detail piece about once every week or so.
+
+<div class="figcenter">(image: sketchbook.jpg caption: The current sketchbook as of December 2020. The good news is that there's only a dozen more pages to fill. The bad news is that it's been that way practically all year.)</div>
+
+In contrast, I've been on the same sketchbook since 2017, and the average length of time it takes for me to push out a personal full detail piece has gone up to every three to even every six weeks. The last time I completed a sketchbook in under a year was the one I finished in October 2015, a sketchbook which had been nearly filled months before then.
+
+The previous two weeks of working myself up to getting this out despite it being grossly past due was, in a way, me working through and coming to terms with a personal debacle that has stymied my creative output for at least the past three years, if not the past five. A struggle which due to how I picture myself wasn't just a struggle of a passion, but a struggle of an identity. To sum up my work over the past years is to look into a mirror and see faults I have unconsciously disregarded for a long while.
+
+But like a sort of Pandora's Box of a realization, I'm left with hope. I knew I had work to do, but in a sense, it wasn't until now that I knew I got work to do. That I have a foundation to build something grand upon. That like an old trainset simply left covered for a time, there in fact doesn't have to be a grand plan to bring things back up to speed. It's a simple matter of dusting it off and getting back to work. It's strange how in rare circumstances, simply changing the tone of the problem can sometimes be the solution.
+
+I may have work to do, but I got work to do. And in my contemplation I have learned having that work at all may very well be a pleasure in itself.
+<br>
+<br>
+So that's it, right? This kept getting pushed back because I hit an all time apathy low followed by a moment of staring at a career's abyss?
+
+If that was it, this would've been out another week earlier, and neither would I have spent the third week pulling all-nighters to get this out before it properly became four weeks. Where did the third week come from?
+
+<div class="figcenter">(image: magicwords.png caption: The magic words that could've been my liberation if I stuck to the letter. I'm firm in the belief that the best tech and/or design professionals have to have some sense of masochism.)</div>
+
+Well, at some point in the seventh-so all-nighter, I had an epiphany of why I was taking this so slow even when I kicked back into high gear. For better or worse, I wasn't doing this project for the grade as much as I was doing it for myself. I need a personal site, and a personal site ultimately has to meet personal standards. There have only been a few points in my academic endeavors where an assignment became a labor of love. Not only was this one a labor of love, but it may be my biggest labor of love yet. This is not a site made simply for a grade, it's a site made for a career. And something tells me this is a site I'll have no problem standing by.
+<br>
+<br>
+So do I expect to get an academic penalty this assignment? Given that I'm turning it in more than two three weeks late, I'd understand it's in the cards. It's an academic embarrassment that I ended up so tardy, and it'd be undoubtedly so if this were a professional endeavor I were contracted for. It doesn't help that I ended up so tardy with one of the professors I respect the most in this establishment, either.
+
+But do I regret it, falling into the malaise and the contemplation that I did, coming to realize that the very problem I despised was a solution in of itself? Do I regret taking the time to make something that I think will shine for a long time to come?
+
+No. No I do not.
