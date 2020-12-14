@@ -276,7 +276,6 @@ main .maininterior {
 main p,
 main ul,
 main ol {line-height: 1.5;}
-main .sectionend {margin-bottom: 3rem;}
 main a {
 	color: var(--linkderive);
 	text-decoration: none;
@@ -340,11 +339,11 @@ div.halftone.left {
 
 /*IMAGES*/
 figure {
+	display: table;
+}
+div.figcenter {
 	display: flex;
 	justify-content: center;
-}
-figure div {
-	display: table;
 }
 
 figure img {
@@ -548,9 +547,6 @@ div.worksgrid > a {
 div.worksgrid > a strong {
 	font-size: 2rem;
 }
-div.worksgrid .passionbutton {background-image: url("../works/_images/personal.png");}
-div.worksgrid .academicsbutton {background-image: url("../works/_images/academics.png");}
-div.worksgrid .businessbutton {background-image: url("../works/_images/business.png");}
 
 
 /*PORTFOLIO PAGES*/
@@ -716,10 +712,6 @@ main .maininterior {padding-top: 5rem;}
 
 	float: left;
 }
-.doodle.wippng {shape-outside: url("../works/_images/wip.png");}
-.doodle.passionpng {shape-outside: url("../works/passion/_images/passion.png");}
-.doodle.academicspng {shape-outside: url("../works/academics/_images/academics.png");}
-.doodle.businesspng {shape-outside: url("../works/business/_images/business.png");}
 textarea {resize: vertical;}
 div.worksgrid > a {width: 45%;}
 div.worksgrid.portfolio {grid-template-columns: repeat(2, 1fr);}
@@ -729,10 +721,12 @@ div.worksgrid.portfolio > a {
 }
 div.worksgrid.portfolio > a p {display: block;}
 div.statisticsbody .software {
+	margin-bottom: 1rem;
 	display: grid;
 	grid-template-columns: 80px auto;
 	grid-gap: 1rem;
 }
+div.statisticsbody .software:last-of-type {margin-bottom: 0;}
 }
 
 

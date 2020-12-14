@@ -23,7 +23,7 @@ columns:
         text: 
           - "No"
           - "Yes"
-      css_ref:
+      cssref:
         label: CSS reference
         type: text
         help: Follow basic CSS class and ID guidelines. No caps, start with letter, no spaces.

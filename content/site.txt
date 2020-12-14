@@ -4,7 +4,7 @@ Title: Paul Edmiston
 
 Legal:
 
-© 2020 Paul Edmiston.
+© (date: year) Paul Edmiston.
 All rights reserved.
 
 The Roundel and Logotype are trademarks of Paul Edmiston that really ought to be registered.

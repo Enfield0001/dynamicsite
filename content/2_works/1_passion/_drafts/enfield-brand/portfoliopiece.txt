@@ -1,0 +1,291 @@
+Title: Enfield brand
+
+----
+
+Description: 
+
+----
+
+Private: true
+
+----
+
+Cssref: passion
+
+----
+
+Theprompt: Create a personal brand that is connected yet independent to its real name counterpart.
+
+----
+
+Theproduct: A complementing name with a professional, dynamic visual identity with flexible application.
+
+----
+
+Completiondate: 2020-12-01
+
+----
+
+Synopsis: A personal brand that's independent yet interconnected with its real name counterpart.
+
+----
+
+Heroimg:
+
+- enfieldhero.jpg
+
+----
+
+Approxtimeframe: 1 year (January 2019 to present)
+
+----
+
+Genrole: Graphic designer
+
+----
+
+Projectclient: 
+
+----
+
+Projectemployer: 
+
+----
+
+Software1tgl: true
+
+----
+
+Software1icn: illustrator
+
+----
+
+Software1dsc:
+
+##### Adobe Illustrator
+
+- Creating vector based designs for brand visual identity.
+
+----
+
+Software2tgl: true
+
+----
+
+Software2icn: photoshop
+
+----
+
+Software2dsc:
+
+##### Adobe Photoshop
+
+- Creating raster based designs and assets for use in brand illustrations and graphics.
+
+----
+
+Software3tgl: false
+
+----
+
+Software3icn: 
+
+----
+
+Software3dsc: 
+
+----
+
+Software4tgl: false
+
+----
+
+Software4icn: 
+
+----
+
+Software4dsc: 
+
+----
+
+Software5tgl: false
+
+----
+
+Software5icn: 
+
+----
+
+Software5dsc: 
+
+----
+
+Software6tgl: false
+
+----
+
+Software6icn: 
+
+----
+
+Software6dsc: 
+
+----
+
+Software7tgl: false
+
+----
+
+Software7icn: 
+
+----
+
+Software7dsc: 
+
+----
+
+Software8tgl: false
+
+----
+
+Software8icn: 
+
+----
+
+Software8dsc: 
+
+----
+
+Miscsoftware: 
+
+----
+
+Skillsets:
+
+##### Graphic design
+
+- Generation and execution of visual identity.
+- Maximizing use of industry standard color systems (ie. Pantone) to ensure visual consistency in potential print marketing.
+
+##### Project management
+
+- Basic file management.
+- Management and maintenance of archived material.
+
+----
+
+Portfolioarticle:
+
+(image: enfieldbanner.png caption: The Enfield logotype, as modified for and applied to a community server banner. The Enfield logo and related visual identity is purposely made with flexible application in mind.)
+
+When graphic designers think of their branding, they're usually thinking about the brand they operate under when conducting business. That's fair enough, it's what most graphic designers use their branding for in the first place.
+
+But let's say you're some sort of masochist who wants a personal visual identity not just for professional and primarily physical interests, but casual and primarily digital ones. A sort of umbrella online pen name with a matching coat that you commonly use. Don the pro coat when it's time for business, don the casual coat when it's time to shoot the breeze.
+
+If you're treating it right, what you're left with is a sort of creative exercise with its own unique requirements.
+<br>
+<br>
+Unless you have a personality as radical as unbuttered toast, it's a respectable idea to construct your digital name at least at arm's length away from your actual name. The more concerned would say that your digital identity should have no connection whatsoever, and Lord help you if you don't purge your digital footprint once a month. That's respectable, but in my opinion it's unrealistic. In today's interconnected internet, where data you don't even know about is accessible if you know the magic words, it's not a matter of if someone can connect the dots. If you piss off the wrong guy, it's a matter of when the dots. The game isn't to stop a man, it's to slow them down. There's only so much to reasonably expect a layman to do, let alone a layman who wants a uniform online identity.
+
+So with that perspective in mind, there's a sort of spectrum an online identity needs to fall under the Goldilocks zone of:
+
+- Be too disconnected from your personal identity, and there's practically no point to even donning it. An identity needs some personal associations to be worthwhile to put on.
+- Be too connected to your personal identity, and some nasty player connects the dots in one basic internet search rather than a dozen clever ones.
+
+Technically making this page at all is a game over for me personally. Because of that aforementioned masochism, I'm going to pray that `noindex` and `robots.txt` was enough for me. Maybe this can still be useful and you can learn how to make a personal online identity for yourself that properly feels like home. Just remember not to post it's evidence under your actual name like yours truly.
+<br>
+<br>
+(image: oldlogo.png caption: 
+Left: The oldest iteration of the Edmiston logo, circa December 2014.
+Right: The next oldest, circa January 2015, as applied as an image mask. By this point, the logo was simplified to a one-color piece.
+)
+This might be a good time to go over a bit of history.
+
+My professional branding has roots that go back about half a decade now to 2014. Before then, my interests creatively speaking were mainly limited to art and illustrative work. I started getting more interested in graphic design in 2015. Partly out naivety and partly out of not thinking I'd eventual aim for a career which necessitated a professional online presence, my two online presences ended up...remarkably similar.
+
+(image: logotypecomparison.png caption: Like sharing the same central logo similar.)
+
+To cut to the chase, I eventually realized this wasn't my wisest idea.
+<br>
+<br>
+So if one of them needed to change, I decided it'd have to be my online identity. I started to figure it was a fairly bulky name anyway that didn't roll off the tongue as well as I wanted it to. I saved what I had for my professional identity and, for all intents and purposes, shredded up what remained of my uniform online name. It was time for a rebranding.
+
+Well, kinda.
+
+For it to be a change that sticks, it needed to meet a fairly long list of criteria. And maintaining some of the connection of the time was in there. Vaguely in order of most to least important, the new name had to:
+
+
+1. Be easy to create unique visuals for that—at least in regard to form—were independent from the professional brand; connection to the professional brand through form recognition must be minimized.
+2. Allow for the visual identity to retain some desired characteristics, such as typeface and color choices.
+3. Be a name I could personally desire identifying with; a name I'd be confident to don.
+4. Be fairly distinct, or at least be complemented with a name variation system that doesn't resort to a numbermashed suffix in most cases.
+5. Roll off the tongue, be easy for others to pronounce.
+6. Allow for a visual identity that's flexible for application, allowing for a range of uses from roundel to logotype and everything in between.
+7. Be compatible with online naming systems which demand a letter first.
+
+<div class="figcenter">(image: nameconcepts.png caption: A concept of distilling the 0-You-0 name to its core elements, hastily written at 2:00 in the morning before I forgot it. The winning name was written below at a more sensible hour.)</div>
+
+Creating the visuals backing up the name didn't end up being the hard part. What was hard was coming up with the name. I first started mentally toying around with the idea of pursuing a new online alias by 2017. I wouldn't start seriously thinking it through until a year later, and at the end of that year at that.
+
+I had a stroke of inspiration one night at the end of 2018 that made me decide it was time to give this a serious whack again. I had an idea for a name that could yield visuals with an independent form. It was a janky one, but nonetheless, it was an idea that made me consider once again that this was an endeavor worth seeing through.
+<br>
+<br>
+(image: enfieldconcepts.png caption: First drafts of the Enfield. The Enfield that would go on to be finalized as "Gen 1" is on the right.)
+
+One day in the middle of this, a character popped to mind: an Enfield. By chance I heard of their existence some years back. An Enfield is a fictitious creature from the British Isles. It's generally characterized as having the head of a fox, chest and arms of an eagle, and the hindquarters of a wolf. Sir Bernard Burke characterized the Enfield as:
+
+<blockquote>[...] reputed to possess the subtlety and cunning of the first named beast; the magnanimity and fortitude, with the honour, labor, industry, and diligence, in great manners, of the eagle; and the fierceness of the wolf.</blockquote>
+
+I figured, "Hey, y'know what? Those are some pretty good values to aim high for." But did it meet the checklist?
+
+
+- The Enfield is different in raw form compared to the Edmiston roundel.
+- The superlative elements like color and typefaces choices aren't tied to the main Enfield form, allowing for previous holdouts to remain as desired.
+- The name had a nice ring to me, I could feel good about it when people call the name out.
+- Aside from maybe certain neighborhoods in the British Isles, it's a unique name that people most likely won't think of.
+- It's spelling leads to pronouncing being straightforward.
+- It was compatible with online naming systems which demand a letter first.
+
+It met the checklist quite alright, as a matter of fact.
+<br>
+<br>
+<div class="figcenter">(image: gen1roundel.png caption: The Gen 1 roundel. While the Enfield was considered a visual improvement, it became apparent over time some changes could be made.)</div>
+
+After a bit less than a month of tinkering with the form, the Enfield identity was rolled out in January 2019. I was happy with how it went. It felt good to properly separate my more professional and my more casual identities. In a way, it was even an upgrade visually speaking from what I had before. I was still working out how I wanted to change my professional identity, but at least in regard to my online presence, it felt like I had something sharp to work with.
+
+Over the course of 2019, I came to realize there were a few things about the Enfield mark that needed tweaking. It was a great foundation for me to work with, but there were some issues that would become glaring the more I looked at it:
+
+
+1. Gen 1 felt as if it was too based on Enfield visuals elsewhere. The Enfield was alright, but it needed to become more visually distinct from the others.
+1. There were a handful of glaring issues in anatomy and general form. The hand and arms placement, for example, did not lend themselves well to the banner logotype.
+1. Gen 1 was lacking in scale-down fidelity. While the footprint was generally recognizable, details like the inner linework would quickly be lost when the mark was made smaller.
+1. While Gen 1 technically could meet the flexibility requirement, it didn't quite achieve it to the level that was sought after. This was exacerbated by the previous point.
+
+<div class="figcenter">(image: gen2concept.jpg caption: Concept drawings of the Gen 2 Enfield. Technically it's considered the third variant.)</div>
+
+I started drafting plans of a new Enfield by October 2019. The previous critique was the guiding principles toward improvements. It needed to be visually distinct, have better fidelity, be more flexible, and have as better of an anatomy as could be achieved. The roundel became central to achieving the flexibility I seek. So long as I could achieve a crop that would yield a legible and clean roundel, I had a form I could stamp in more places than a logotype. Gen 2 was partly designed around achieving the maximum amount of roundel clarity that could reasonably be achieved.
+<br>
+<br>
+<div class="figcenter">(image: gen2draft.png caption: The Gen 2 Enfield before vector tracing. The anatomical form is a compromise between general expectation and heraldry tradition.)</div>
+
+Gen 2 was completed by November 2019. Aside from some minor day-one tweaking, the Enfield form has been stable ever since. Complementing elements like preferred typefaces and logotype form have seen minor tweaks too, but like the primary Enfield, it's seemed to have stabilized.
+
+It's an interesting exercise to maintain what's comparable to a sort of pen name. What makes them work is the anonymity, that you apply them less to a person and rather to an idea of one. Compromise the anonymity, connect the dots, and it'll lose its fun.
+
+So long as this name retains its own identity, it'll be one I stick with.
+
+----
+
+Css-ref: passion
+
+----
+
+Softwareused: 1
+
+----
+
+Axuredtl: 
+
+----
+
+Bodycopy: 

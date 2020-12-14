@@ -1,0 +1,250 @@
+Title: Reclamation branding
+
+----
+
+Description: 
+
+----
+
+Private: true
+
+----
+
+Cssref: passion
+
+----
+
+Theprompt: Expedite the creation of a visual identity for a clan splitting off.
+
+----
+
+Theproduct: A strong, professional design especially directed to the target audience.
+
+----
+
+Completiondate: 2017-12-01
+
+----
+
+Synopsis: A group finds themselves in need of a new name and identity on the double.
+
+----
+
+Heroimg:
+
+- rclmhero.jpg
+
+----
+
+Approxtimeframe: 2 months
+
+----
+
+Genrole: Graphic designer, Web designer (Front end)
+
+----
+
+Projectclient: 
+
+----
+
+Projectemployer: 
+
+----
+
+Software1tgl: true
+
+----
+
+Software1icn: illustrator
+
+----
+
+Software1dsc:
+
+##### Adobe Illustrator
+- Creating vector based designs for brand visual identity.
+- Enhancing existing brand assets through vector tracing to increase usability.
+
+----
+
+Software2tgl: true
+
+----
+
+Software2icn: photoshop
+
+----
+
+Software2dsc:
+
+##### Adobe Photoshop
+- Creating raster based designs and assets for use in brand illustrations and graphics.
+- Adapting brand assets and graphics to work in undocumented cicumstances (eg. community reference channels.)
+
+----
+
+Software3tgl: false
+
+----
+
+Software3icn: 
+
+----
+
+Software3dsc: 
+
+----
+
+Software4tgl: false
+
+----
+
+Software4icn: 
+
+----
+
+Software4dsc: 
+
+----
+
+Software5tgl: false
+
+----
+
+Software5icn: 
+
+----
+
+Software5dsc: 
+
+----
+
+Software6tgl: false
+
+----
+
+Software6icn: 
+
+----
+
+Software6dsc: 
+
+----
+
+Software7tgl: false
+
+----
+
+Software7icn: 
+
+----
+
+Software7dsc: 
+
+----
+
+Software8tgl: false
+
+----
+
+Software8icn: 
+
+----
+
+Software8dsc: 
+
+----
+
+Miscsoftware:
+
+- Wordpress
+- Enjin
+
+----
+
+Skillsets:
+
+##### Graphic design
+- Generation and execution of visual identity.
+- Coordinating with project leads and other designers on the team.
+- Maximizing use of industry standard color systems (ie. Pantone) to ensure visual consistency in potential print marketing.
+
+##### Web design (front end)
+- Working with audience familiar services (eg. Enjin) to maximize interaction with an established target audience.
+
+##### Project management
+- Basic file management.
+- Management and maintenance of archived material.
+
+----
+
+Portfolioarticle:
+
+(image: header.png caption: Forum banner at the time of departure, circa January 2018.)
+Sometimes your recollection of a group and your work for them feels less like a simple memory recall and more like you're speaking of a legend from a time long ago. This is one of those times.
+<br>
+<br>
+To outline how I got into this opportunity, we need to take a blast to the past and talk about what still stands out to me as a classic. Battlefield 2142 was released in 2006. It was the fourth major game in the series. 2142 was a step out of the Battlefield comfort zone. It took place in the 22nd century and had technologies like railguns, big flying fortresses called "Titans," heavy battlemechs with machine guns and rockets, and one-man pods that would somehow obliterate any unfortunate dropship you landed on.
+
+To 2006 me, it was a neat lil' plaything that I was barely old enough to comprehend.
+
+To 2012-or-so-me, it was a proper gem. It had an aesthetic that I adored then, and continue to adore now. Its gameplay felt just right when I played it. And I can tell you that there's something that really makes you feel like a badass when you jump off one of those Titans as it explodes.
+
+But in July 2014, 2142's multiplayer server provider, GameSpy, shut down. With 2142's developers in no mood to keep a nearly decade old game alive, it meant the game and its small yet passionate falling were dead. So it goes.
+
+Technically there are ways to get around this. Services like Gameranger allow for independent people to host their own servers that games like 2142 could theoretically connect to, but it's a fairly janky service that doesn't encourage large communities. Eventually, a group of dedicated fans made a standalone client and fostered a community around it: the Revive Network. I had the pleasure of playing on their platform for a fair chunk of 2017.
+
+<div class="figcenter">(image: revive2017.png caption: revive.network, circa December 2020. They've maintained the same page since around October 2017.)</div>
+
+But you can only escape the jaws of an IP Counsel for so long, and eventually EA's caught up to Revive. On October 2017, EA IP Counsel that reads (link: https://revive.network/notice text: dorky at best, and perhaps condescending at worst.) EA wanted Revive to make some changes that would practically cripple Revive's mechanics. Caught with their hands tied, Revive announced the upcoming shutdown of their service. Once again, it seemed the playerbase was scattered like dust in the wind.
+<br>
+<br>
+<div class="figcenter">(image: dethklok2020.png caption: Dethklok's site, circa December 2020. Goes to show how hard it is to collect evidence right about now.)</div>
+
+The 2142 fanbase found itself gravitating toward familiar faces. Dethklok, being the familiar community for the English speakers, ended up being one of those big faces. Dethklok's efforts to keep the 2142 fanbase alive were spearheaded by two fans who we'll refer to as Jerr and Geoff. They were host to what started out as a small Discord server. I decided I wasn't quite done with 2142 yet and joined to see where it went.
+
+Things were still fairly unorganized when I first arrived. I was franticly doing what I could to inform people of what was going on and where they could do, and so was pretty much everyone else. In the midst of this mess, no one had bothered to change out the default server icon. It was really starting to bug me. Dethklok had some sort of a visual identity to build from, an icon shouldn't have been an issue. Someone was going to step up, right?
+
+At some point my patience must have ran out, because I decided to take the initiative. I snagged a portion of their logo, vector traced it for editing, plopped it in an aesthetic that fit the game's theme and the clan's brand, and sent it out with a few other goodies. That would be enough to change their ways, right?
+
+Turns out it was. I got my way and their server now had a proper look to it.
+
+It also ended up being enough to get Geoff to recruit me as one of their graphic designers.
+<br>
+<br>
+<div class="figcenter">(image: dethklokicon.png caption: The proposed server logo. Before the change, the server used an autogenerated logo: a plain color field with the server name's initials. It looked as janky as it may sound.)</div>
+
+At the height of its operations while I was there, the server had around a few managers/catch-all workers, a small unit of community managers and tech support, a handful of programmers, and two designers including yours truly. We had a simple plan: maintain the players we have, grow our audience, and spread the good news that 2142 was still playable.
+
+Did we accomplish that? Sure. We may had been stunted by the shutdown of Revive, but in general we saw an upward projection while I was there.
+
+Did we do it *gracefully?* No. Good God, no.
+<br>
+<br>
+Let me take a moment to talk about our heads of the enterprise. Jerr was a SoCal stoner that was as liberal as they came. Geoff was a Frenchman who was not as liberal as they come. In regard to their job, they seemed to do just enough to get the project by. But when it came to personal matters, it seemed they were rather keen in making their beliefs known in the loudest means possible. Between the occasional political tirades and being in what seemed to be a perpetual contest to see who was the bigger jerk, it started yanking on our chains. Between the back-and-forth from them and the feeling that we weren't getting anywhere, it was a grind. Our second graphic designer left the team in about a month later in December 2017. I said I was going to leave after I had enough with their political ramblings and the in-fighting between the volunteers at work, and our second designer decided to take it all the way. I did my best to keep my head down after that, but my time with them was leaving its mark to say the least.
+
+It was about at this time that I learned of something I didn't quite grasp before: Jerr wasn't as high in the Dethklok command as I thought. I knew Geoff was essentially doing this as his own thing, but I always figured Jerr held a respectable position in the Dethklok ranks.
+
+How did I figure this out? Around then, December 9th specifically, conversations started floating around in Dethklok's home forum. It turns out the 2142 operations Jerr and Geoff had been operating weren't officially sanctioned, and leadership was less than pleased.
+<br>
+<br>
+<div class="figcenter">(image: rclmconcepts.png caption: A set of concepts I played around with. I'd only realize in hindsight why the form for the AJ logo felt so familiar: I got it from Levelcap.)</div>
+At least a chunk of us saw the writing was on the wall beforehand. If it weren't because of being an unsanctioned operation, we figured it'd have to do with how Jerr and Geoff generally handled their lot. I had played around with various potential name and branding concepts before hand, but I couldn't think of something that would stick. I wasn't too enthusiastic of any of these concepts and I was met with an equal response when it came time to propose them.
+
+Geoff had a concept of his own that he wanted me to consider: "Reclamation." I supposed it had a nice ring to it, but I couldn't seem to make something out of it at first. I wanted a name that was independent from the IP or anything else, but this felt too independent. It felt like I was building something from scratch. What was I supposed to do with it?
+
+I figured I could play around with the word. Reclamation. Sort of like a repurposing, a restoration, or a refresh. Maybe I could play into that iconography, but how could I make it look good? I figured I could use a typeface that was boxy and futuristic, something that'd fit the aesthetic and target audience of 2142.
+
+<div class="figcenter">(image: rclmfirstdraft.png caption: The first test-run of the Reclamation logo and logotype.)</div>
+
+We figured we were onto something good here. A proper brand set was established and ready for deployment the next day on December 15th, 2017.
+<br>
+<br>
+<div class="figcenter">(image: construction.png)</div>
+
+By this point, I figured I had just about exhausted the use of my talents in the 2142 Dethklok, now Reclamation operations. They had a solid visual identity to back their name transition. I went ahead and set up a forum site for them in the fashion of Dethklok's. I had just about done my part in a transition to autonomy as its graphic designer. For as rushed as it was, the end product had a shine to it. Even if I'd say that was more like a gild in hindsight. But hey, what can I say—it was a gild that shined brightly.
+
+I left the Reclamation team in mid-January 2018. That was about the point my patience with the in-fighting was exhausted. I did my part in the initial transition, the dust from that had settled. I could've stayed to help with art direction. Considering how the last trailer of theirs I saw featured a tagline along the lines of "Reclaimation [sic] Battlefield 2142", it may have been productive after all.
+
+But as happy as I am with how the product turned out, and as much as I enjoyed 2142, it was a lesson in how the people you work with can make or break the experience. No matter how much you enjoy the labor, if the people around you leave a sour taste, there's no fault in keeping your nose down and seeing yourself out when the time is right.
